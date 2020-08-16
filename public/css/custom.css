@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "LoewExtraBold";
+    src: url("../fonts/Loew-Next-Arabic-ExtraBold.otf");
+}
+@font-face {
+    font-family: "LoewBold";
+    src: url("../fonts/Loew-Next-Arabic-Bold.otf");
+}
+@font-face {
+    font-family: "LoewMedium";
+    src: url("../fonts/Loew-Next-Arabic-Medium.otf");
+}
+@font-face {
+    font-family: "LoewThin";
+    src: url("../fonts/Loew-Next-Arabic-Thin.otf");
+}
+@font-face {
+    font-family: "LoewArabic";
+    src: url("../fonts/Loew-Next-Arabic-Medium.otf");
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}

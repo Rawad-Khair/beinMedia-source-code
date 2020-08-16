@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "type": "video",
+        "title": "تعرف على أسرار صناعة المحتوى التسويقي الفعال",
+        "price": 299,
+        "downloads": 104,
+        "url": "images/author/image1.png"
+    },
+    {
+        "id": 2,
+        "type": "video",
+        "title": "تعرف على أسرار صناعة المحتوى التسويقي الفعال",
+        "price": 149,
+        "downloads": 39,
+        "url": "images/author/image2.png"
+    },
+    {
+        "id": 3,
+        "type": "pdf",
+        "title": "دورة صناعة المحتوى مع هند الناهض",
+        "price": 300,
+        "downloads": 120,
+        "url": ""
+    },
+    {
+        "id": 4,
+        "type": "word",
+        "title": "فوكس حلقة ٥",
+        "price": 150,
+        "downloads": 100,
+        "url": ""
+    },
+    {
+        "id": 5,
+        "type": "audio",
+        "title": "تعرف على أسرار صناعة المحتوى التسويقي الفعال",
+        "price": 550,
+        "downloads": 12,
+        "url": ""
+    }
+]

@@ -1,0 +1,9 @@
+[
+    { "id": 1, "name": "مستخدم 1", "time": "15", "avatar": "" },
+    { "id": 2, "name": "مستخدم 2", "time": "12", "avatar": "" },
+    { "id": 3, "name": "مستخدم 3", "time": "11", "avatar": "" },
+    { "id": 4, "name": "مالك محمد", "time": "10", "avatar": "" },
+    { "id": 5, "name": "مستخدم 4", "time": "8", "avatar": "" },
+    { "id": 6, "name": "مستخدم 5", "time": "5", "avatar": "" },
+    { "id": 7, "name": "مستخدم 6", "time": "2", "avatar": "" }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "تعرف على أسرار صناعة المحتوى التسويقي الفعال",
+        "videosCount": 24,
+        "price": 299,
+        "url": "images/courses/image1.png"
+    },
+    {
+        "id": 2,
+        "title": "تعرف على أسرار صناعة المحتوى التسويقي الفعال",
+        "videosCount": 24,
+        "price": 299,
+        "url": "images/courses/image2.png"
+    },
+    {
+        "id": 3,
+        "title": "تعرف على أسرار صناعة المحتوى التسويقي الفعال",
+        "videosCount": 23,
+        "price": 299,
+        "url": "images/courses/image3.png"
+    },
+    {
+        "id": 4,
+        "title": "تعرف على أسرار صناعة المحتوى التسويقي الفعال",
+        "videosCount": 15,
+        "price": 299,
+        "url": "images/courses/image4.png"
+    }
+]
